@@ -1,13 +1,12 @@
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
-Email Me 👉 ✉️ **devrajshivam02@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 
 - 🔭 **I’m currently working on:** Learning and building Full Stack Web Projects  
 🌱 **I’m currently learning:** HTML, CSS, JavaScript, React.js, Node.js, MongoDB  
 👯 **I’m looking to collaborate on:** Beginner-friendly full stack and open-source projects  
 🤔 **I’m looking for help with:** Real-world project building and backend integration  
 💬 **Ask me about:** Full Stack Web Development, GitHub, and Learning Resources  
-📫 **How to reach me:**devrajshivam02@gmail.com *(replace this with your actual email)*  
+Email Me 👉 ✉️ **devrajshivam02@gmail.com** For Collaboration/Project or Anything Else. 😊😊 
 
 
 ## 🌐 Socials:
