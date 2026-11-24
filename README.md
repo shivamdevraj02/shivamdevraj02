@@ -171,8 +171,9 @@ An e-commerce application featuring product categories, authentication and shopp
 - 🥇 Winner – TechGlaze Hackathon.
 - 🏆 Best Creative Solution Award – BCE Bhagalpur Hackathon.
 - 🏅 4th Rank – MIT Muzaffarpur Hackathon.
+- 🏅 5th Rank – TechKshitiz GEC Siwan .
 - 🎓 Academic Excellence Award.
-- 💻 Solved 250+ LeetCode problems.
+- 💻 Solved 400+ LeetCode problems.
 - 🔥 Earned the 200 Days LeetCode Badge.
 
 ---
