@@ -18,7 +18,7 @@ Building intelligent applications and scalable web experiences.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 B.Tech Computer Science Engineering student.
 - 🤖 Interested in Artificial Intelligence and Machine Learning.
